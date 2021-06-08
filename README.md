@@ -1,10 +1,12 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<h1 align="center">Oi pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Henrique Santos</h1>
+<h3 align="center">Sou um estudante de Ciência de Computação aprendendo mais a cada dia!!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrqcds" alt="HenriqueSantos" /> </p>
 
-- 🔭 Eu estou atualmente me busca de oportunidades
+- 🔭 Eu estou atualmente em busca de oportunidades
 
-- 💬 Pergunte-me sobre **HTML, CSS, JAVASCRIPT e REACT (no futuro, Flutter e Dart)**
+- 💬 Pergunte-me sobre **HTML, CSS, JAVASCRIPT e REACT**
+
+- 🌱 Eu estou atualmente aprendendo **Flutter/Dart**
 
 - 📫 How to reach me **hrqcds.dev@gmail.com**
 
@@ -20,26 +22,9 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://twitter.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://codesandbox.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://codepen.io/hrqcds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://twitter.com/zhrq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/hrqcds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/16160674/henrique-santos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://instagram.com/darkhrq10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
