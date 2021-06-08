@@ -4,7 +4,7 @@
 
 - 🔭 Eu estou atualmente me busca de oportunidades
 
-- 💬 Pergunte-me sobre **HTML, CSS, JAVASCRIPT, TYPESCRIPT e REACT (no futuro, Flutter)**
+- 💬 Pergunte-me sobre **HTML, CSS, JAVASCRIPT e REACT (no futuro, Flutter e Dart)**
 
 - 📫 How to reach me **hrqcds.dev@gmail.com**
 
